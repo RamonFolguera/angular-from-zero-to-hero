@@ -30,10 +30,14 @@ const healCharacter = ( character: Character, amount: number ) => {
 
 }
 
-const strider: Character (
+const strider: Character = {
     name: 'Strider',
     hp: 50,
     showHp() {
         console.log(`Puntos de vida ${ this.hp }`);
     }
-)
+}
+
+strider.showHp();
+
+export {};
