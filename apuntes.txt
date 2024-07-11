@@ -1,0 +1,3 @@
+Módulo: agrupación encapsulada de un procedimiento.
+
+se recomienda usar     "strict": true,

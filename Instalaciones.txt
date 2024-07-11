@@ -1,0 +1,15 @@
+https://gist.github.com/Klerith/4816679624c1cb528f8e05d902fd7cff
+
+ng new mi-primera-app --standalone false
+CSS
+N 
+
+https://stackblitz.com/edit/typescript-vxnz8z?file=index.ts
+
+npm create vite
+vanilla
+typescript
+name = typestript-intro
+
+npm install
+npm run dev
