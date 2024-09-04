@@ -4,7 +4,9 @@ import './style.css';
 // import './topics/03-functions';
 // import './topics/04-homework-types';
 // import './topics/05-basic-destructuring.ts';
-import './topics/06-function-destructuring.ts';
+// import './topics/06-function-destructuring.ts';
+// import './topics/07-import-export.ts';
+import './topics/08-classes.ts';
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
