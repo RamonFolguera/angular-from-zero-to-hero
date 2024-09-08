@@ -6,11 +6,12 @@ import './style.css';
 // import './topics/05-basic-destructuring.ts';
 // import './topics/06-function-destructuring.ts';
 // import './topics/07-import-export.ts';
-import './topics/08-classes.ts';
+// import './topics/08-classes.ts';
+// import './topics/09-generics.ts';
+import './topics/10-decorators.ts';
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
  Hola Mundo
 `
 
-console.log('Hola mundo');
