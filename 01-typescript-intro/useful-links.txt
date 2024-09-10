@@ -1,1 +1,6 @@
 https://www.typescriptlang.org/docs/handbook/decorators.html
+
+
+Código de la sección
+Aquí les dejo el código fuente de la sección por si lo llegan a necesitar para compararlo contra el mío:
+https://github.com/Klerith/angular-introduccion-typescript
